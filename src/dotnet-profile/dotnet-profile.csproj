@@ -1,0 +1,11 @@
+<Project>
+    <Sdk Name="Microsoft.NET.Sdk" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PackAsTool>true</PackAsTool>
+    <GenerateToolShims>true</GenerateToolShims>
+  </PropertyGroup>
+
+</Project>
